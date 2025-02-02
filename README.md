@@ -73,5 +73,6 @@ The results are displayed in a table format, showing **model names, evaluation m
 | ... | ... | ... | ... | ... | ... | ... | ... |
 
 ---
-
+## Contributor
+Name: Kartik Sidana
 
