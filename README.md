@@ -74,9 +74,4 @@ The results are displayed in a table format, showing **model names, evaluation m
 
 ---
 
-## Dependencies
-To run this project, install the following Python packages:
-
-```bash
-pip install numpy pandas torch transformers rouge_score matplotlib
 
